@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.pricing {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.pricing h2 {
+    text-align: center;
+    color: #333333;
+}
+
+.plan {
+    background-color: #70c1b3;
+    padding: 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    margin: 10px;
+    display: inline-block;
+    width: calc(33.33% - 20px);
+    vertical-align: top;
+    text-align: left;
+}
+
+.plan h3 {
+    margin-top: 0;
+}
+
+.plan p {
+    line-height: 1.6;
+}
+
+.plan strong {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+}

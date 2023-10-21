@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.coaches {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.coaches h2 {
+    text-align: center;
+    color: #333333;
+}
+
+.coach {
+    margin-bottom: 30px;
+}
+
+.coach h3 {
+    color: #ff6f61;
+}
+
+.coach p {
+    line-height: 1.6;
+    color: #555555;
+}
+
+.other-info {
+    background-color: #70c1b3;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.other-info h3 {
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.other-info ul {
+    list-style: none;
+    padding: 0;
+    color: #ffffff;
+}
+
+.other-info li {
+    padding: 5px 0;
+}
+
+.other-info p {
+    line-height: 1.6;
+    color: #ffffff;
+}
